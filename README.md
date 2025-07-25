@@ -48,7 +48,7 @@ Step 3: Start Expo
 npx expo start
 Scan the QR code in the terminal using the Expo Go app on your phone.
 
-# Developed By
+Developed By
 Aswathi Rajkumar
 B.Tech Computer Science and Business Systems
 
